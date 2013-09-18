@@ -5,6 +5,5 @@
 }
 ]]></content>
   <tabTrigger>small</tabTrigger>
-  <scope>source.sass</scope>
   <description>Small media query</description>
 </snippet>
