@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@media #{\$medium} {
+  ${1}
+}
+]]></content>
+  <tabTrigger>medium</tabTrigger>
+  <scope>source.sass</scope>
+  <description>Medium media query</description>
+</snippet>
